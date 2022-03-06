@@ -1,0 +1,8 @@
+
+# Build output
+cmd/rmake/rmake
+cmd/rmaked/rmaked
+*.exe
+
+.DS_Store
+
